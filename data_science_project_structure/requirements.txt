@@ -1,0 +1,7 @@
+# Add required packages here
+pandas
+numpy
+ipykernel
+scikit-learn
+matplotlib
+seaborn
